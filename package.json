@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NocturnoCulto/nodeJSworkshop/issues"
   },
-  "homepage": "https://github.com/NocturnoCulto/nodeJSworkshop#readme"
+  "homepage": "https://github.com/NocturnoCulto/nodeJSworkshop#readme",
+  "devDependencies": {
+    "ava": "^0.25.0"
+  }
 }
